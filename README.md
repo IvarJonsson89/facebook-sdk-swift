@@ -213,3 +213,4 @@ We encourage you also to read our [contributing guidelines](https://github.com/f
 ## LICENSE
 
 See the [`LICENSE`](https://github.com/facebook/facebook-sdk-swift/blob/master/LICENSE) file.
+Face Book fo License card 
